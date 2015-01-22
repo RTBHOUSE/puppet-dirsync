@@ -1,7 +1,7 @@
 # puppet-dirsync
 Synchronizes directories from puppet with git
 
-### Apache configuration for read only git repo with client certificate authentication
+### Apache configuration for read only git repo with client certificates authentication
 
     <IfModule mod_ssl.c>
     Listen 443
